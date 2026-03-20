@@ -122,7 +122,7 @@ All players must own and compete using their own personal Steam / Counter-Strike
 
 Players with VAC bans or other integrity-related bans are strictly prohibited from participating, regardless of ban age or account status.
 
-### **Age Requirement**  All participating players must be a minimum of 16 years old when the tournament begins.
+### **Age Requirement**  All participating players must be a minimum of 15 years old when the tournament begins.
 
 Team registration confirms that every player satisfies this age restriction.
 
@@ -304,7 +304,7 @@ The Playoffs consist of sixteen (16) teams:
 
 **Playoff Seeding Clarification**
 
-The top eight (8) teams according to the official Valve Regional Standings (VRS) February ranking will be seeded directly into the Playoffs as Seeds 1–8.
+The top eight (8) teams according to the official Valve Regional Standings (VRS) March ranking will be seeded directly into the Playoffs as Seeds 1–8.
 
 Seeds 9–12 will be the teams that finish first in their respective Group Stage groups. Seeds 13–16 will be the teams that finish second in their groups.
 
